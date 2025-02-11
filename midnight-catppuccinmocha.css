@@ -17,13 +17,13 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'figtree';
+	--font: 'SN Pro';
 
 	/* top left corner text */
 	--corner-text: 'Catppuccin';
 
 	/* thickness of messages divider */
-	--divider-thickness: 3px;
+	--divider-thickness: 5px;
 
 	/* color of status indicators and window controls */
 	--online-indicator: #a6e3a1; /* change to #23a55a for default green */
@@ -51,14 +51,14 @@
 	/* background and dark colors */
 	--bg-1: hsl(234, 13%, 31%); /* dark buttons when clicked */
 	--bg-2: hsl(237, 16%, 23%); /* dark buttons */
-	--bg-3: hsl(240, 21%, 12%); /* spacing, secondary elements */
+	--bg-3: hsl(240, 21%, 10%); /* spacing, secondary elements */
 	--bg-4: hsl(240, 21%, 15%); /* main background color */
 	--hover: hsla(237, 18%, 53%, 0.1); /* channels and buttons when hovered */
 	--active: hsla(235, 15%, 53%, 0.2); /* channels and buttons when clicked or selected */
 	--message-hover: hsla(240, 0%, 0%, 0.1); /* messages when hovered */
 
 	/* amount of spacing and padding */
-	--spacing: 12px;
+	--spacing: 10px;
 
 	/* animations */
 	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
